@@ -29,5 +29,10 @@ namespace HimadriPCSCADA_new
         {
             MessageBox.Show("Hi");
         }
+
+        private void button_Copy_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Hello!");
+        }
     }
 }
